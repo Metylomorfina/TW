@@ -26,7 +26,7 @@
             "ODS": true,
             "Loot": true,
             "Gathering": true,
-            "Combined": true,
+            "Combined": false,
             "ODATotal": true,
             "ODDTotal": true,
             "ODSTotal": true
@@ -45,17 +45,17 @@
 
     var langShinko;
     switch (game_data.locale) {
-        case "pl_PL":
+        case "pt_BR":
             langShinko = {
-                "ODA": "Dzienny Agresor",
-                "ODD": "Dzienny Obrońca",
-                "ODS": "Dzienny Wspierający",
-                "Loot": "Farma",
-                "Gathered": "Zbieractwo",
-                "Combined": "Farma+Zbieractwo",
-                "ODATotal": "RA",
-                "ODDTotal": "RO",
-                "ODSTotal": "RW"
+                "ODA": "ODA",
+                "ODD": "ODD",
+                "ODS": "ODS",
+                "Loot": "Saqueado",
+                "Gathered": "Coletado",
+                "Combined": "Combinado",
+                "ODATotal": "ODA TOTAL",
+                "ODDTotal": "ODD TOTAL",
+                "ODSTotal": "ODS TOTAL"
             }
             break;
         case "es_ES":
