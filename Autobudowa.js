@@ -63,7 +63,7 @@ function init() {
         "<option value=\"garage\">Warsztat</option> " +
         "<option value=\"watchtower\">Wieża Strażnicza</option> " +
         "<option value=\"smith\">Kuźnia</option> " +
-        "<option value=\"market\">Ratusz</option> " +
+        "<option value=\"market\">Rynek</option> " +
         "<option value=\"wood\">Tartak</option> " +
         "<option value=\"stone\">Cegielnia</option> " +
         "<option value=\"iron\">Huta Żelaza</option> " +
